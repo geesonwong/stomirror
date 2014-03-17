@@ -38,13 +38,13 @@ K线是给趋势投资的人做参考的，财报数据是给价值投资的人�
 
     找到 sql/table_ddl.sql 文件，运行里面的语句，可以创建
 
-    f* 数据库 `invsertment`；
-    f* 数据表 `t_163_data`，`t_163_item`，`t_k_line`，`t_stock`。
+        * 数据库 `invsertment`；
+        * 数据表 `t_163_data`，`t_163_item`，`t_k_line`，`t_stock`。
 
     然后找到 sql/procedure.sql 文件，运行语句可以创建
 
-    f* 存储过程 `REPORT`；
-    f* 存储过程 `TOOGLE_STOCK`。
+        * 存储过程 `REPORT`；
+        * 存储过程 `TOOGLE_STOCK`。
 
     最后找到 sql/data_dml.sql 文件，运行语句初始化类目表数据。
 
