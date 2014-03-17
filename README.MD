@@ -76,3 +76,5 @@ K线是给趋势投资的人做参考的，财报数据是给价值投资的人�
     ![经过处理的财报数据样式](http://ww4.sinaimg.cn/mw690/60dc9a70gw1eeinilm8u2j20ez04q0tq.jpg)
 
     出现在报表的股票是 `t_stock` 中 `optional ＝ 1` 的记录，出现在列头的类目是 `t_163_item` 中 `show_code = 1` 的记录，可以自己修改设置。
+
+
