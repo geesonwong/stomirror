@@ -43,8 +43,8 @@ K线是给趋势投资的人做参考的，财报数据是给价值投资的人�
 
     然后找到 sql/procedure.sql 文件，运行语句可以创建
 
-        * 存储过程 `REPORT`；
-        * 存储过程 `TOOGLE_STOCK`。
+    1. 存储过程 `REPORT`；
+    1. 存储过程 `TOOGLE_STOCK`。
 
     最后找到 sql/data_dml.sql 文件，运行语句初始化类目表数据。
 
